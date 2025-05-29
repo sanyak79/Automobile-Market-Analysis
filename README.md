@@ -17,7 +17,7 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 - DAX for custom KPIs and measures
 
 ## Dataset used
-- <a href="https://docs.google.com/spreadsheets/d/1P2mB0Z4Gn9FyUBhj2cI443nRjnSgNx34/edit?usp=drive_link&ouid=101368825255311313144&rtpof=true&sd=true">Dataset</a>
+- <a href="https://drive.google.com/drive/folders/1e74o0Kzl3WW6NWpz5mW6fNoGbbq0luIZ?usp=drive_link">Dataset</a>
 
 ## Questions (KPIs)
 Which car model offers the highest number of preferred features?
